@@ -1,0 +1,33 @@
+# Traduções em Português Brasileiro para Hextra
+
+# Navegação e ações
+backToTop: "Voltar ao topo"
+changeLanguage: "Mudar idioma"
+changeTheme: "Mudar tema"
+copyCode: "Copiar código"
+
+# Rodapé
+copyright: "© 2025 Linhas e Colunas. Todos os direitos reservados. | CNPJ: 52.897.191/0001-30"
+poweredBy: "Desenvolvido com Hextra"
+
+# Temas
+dark: "Escuro"
+light: "Claro"
+system: "Sistema"
+
+# Edição e datas
+editThisPage: "Editar esta página no GitHub →"
+lastUpdated: "Última atualização em"
+
+# Navegação de conteúdo
+next: "Próximo"
+previous: "Anterior"
+onThisPage: "Nesta página"
+
+# Busca
+searchPlaceholder: "Pesquisar no blog..."
+noResultsFound: "Nenhum resultado encontrado."
+
+# Diversos
+readMore: "Ler mais →"
+tags: "Tags"
