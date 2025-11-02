@@ -35,6 +35,10 @@ params:
       width: 30
       height: 30
       link: /
+      
+  blog:
+    list:
+      displayTags: true
   
   theme:
     default: auto
@@ -43,3 +47,9 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: false
+
+
+services:
+  googleAnalytics:
+    ID: G-WGS5QXH22E
+
