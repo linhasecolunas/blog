@@ -193,6 +193,8 @@ html[class~="dark"] .hextra-nav-container svg {
   display: flex;
   justify-content: center;
   align-items: center;
+
+
 }
 
 /* FIX: Garante que texto normal (não-link) dentro do footer 
