@@ -1,7 +1,7 @@
 # GitHub Actions Workflow para Hugo
 # Faz deploy automático para GitHub Pages a cada push
 
-name: Deploy Hugo Blog
+name: Deploy LC Blog
 
 on:
   push:

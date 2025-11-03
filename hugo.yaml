@@ -30,11 +30,10 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: /images/logo.png
-      dark: /images/logo.png
+      path: images/logo.png
+      dark: images/logo.png
       width: 30
       height: 30
-      link: /
       
   blog:
     list:
