@@ -1,4 +1,4 @@
-baseURL: 'https://linhaecolunas.github.io/blog'
+baseURL: '/blog/'
 defaultContentLanguage: br
 title: Blog | Linhas e Colunas
 module:
@@ -52,5 +52,5 @@ services:
   googleAnalytics:
     ID: G-WGS5QXH22E
 
-canonifyURLs: false
+canonifyURLs: true
 relativeURLs: false
