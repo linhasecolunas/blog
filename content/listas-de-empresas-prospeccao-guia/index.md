@@ -1,10 +1,10 @@
 ---
 title: "Listas de Empresas para Prospecção B2B: O Guia Definitivo"
 slug: "listas-de-empresas-prospeccao-guia"
-date: 2025-11-06T10:00:00-03:00
+date: 2025-11-06T09:00:00-03:00
 draft: false
 description: "Descubra as 3 formas de obter listas de empresas B2B. Do método manual (e difícil) da Receita Federal às plataformas prontas para prospecção."
-tags: ["Leads B2B", "Prospecção", "Base CNPJ", "Lista de Empresas", "Vendas", "Marketing"]
+tags: ["Guia", "Tutorial", "Leads B2B", "Prospecção", "Base CNPJ", "Lista de Empresas", "Vendas", "Marketing"]
 authors: ["Linhas e Colunas"]
 sidebar:
   exclude: true
