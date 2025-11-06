@@ -1,8 +1,9 @@
 ---
-title: "Raio-X 2025: 3,7 Milhões de Novas Empresas este ano no Brasil"
-slug: "2025/11/raio-x-brasil-2025-outubro"
+title: "Raio-X 2025: 3.7 Milhões de Novas Empresas este ano no Brasil"
+slug: "raio-x-brasil-2025-outubro"
 date: 2025-11-05T20:30:00-03:00
-description: "Uma análise completa dos 3,7 milhões de CNPJs abertos em 2025. Veja os estados líderes, os setores mais procurados e a divisão entre Matriz vs. Filial."
+draft: false
+description: "Uma análise completa dos 3.7 milhões de CNPJs abertos em 2025. Veja os estados líderes, os setores mais procurados e a divisão entre Matriz vs. Filial."
 tags: ["Análise de Mercado", "Abertura de Empresas", "CNAE", "Empreendedorismo", "Base CNPJ", "MEI", "Prospecção"]
 image: "mapa_empresas_2025.png"
 sidebar:
@@ -10,8 +11,6 @@ sidebar:
 ---
 
 _Publicado em 05 de novembro de 2025._
-
-## Raio-X 2025: O Brasil ganhou 3,7 milhões de novos estabelecimentos de janeiro a outubro
 
 O ano de 2025 viu a abertura de impressionantes **3.752.811 novos estabelecimentos** no Brasil. Mas quem são eles, onde estão e em que setores atuam?
 

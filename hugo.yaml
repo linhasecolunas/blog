@@ -1,5 +1,5 @@
 baseURL: 'https://linhasecolunas.com.br/blog/'
-defaultContentLanguage: br
+defaultContentLanguage: pt-br
 title: Blog | Linhas e Colunas
 module:
   imports:
@@ -12,25 +12,20 @@ markup:
     noClasses: false
 menu:
   main:
+    - name: Tutoriais
+      url: "/tags/tutorial/"
+      weight: 1
     - name: Ir para o site ↗
       url: "https://linhasecolunas.com.br"
-      weight: 1
-    - name: ""
       weight: 2
+    - name: ""
+      weight: 3
       params:
         type: theme-toggle
     - name: Search
-      weight: 3
+      weight: 4
       params:
         type: search
-  sidebar:
-    - name: "Guias e Tutoriais"
-      params:
-        type: separator
-      weight: 1
-    - name: "Portal de Downloads"
-      pageRef: "/como-usar-o-portal-base-cnpj"
-      weight: 2
 
 params:
   page:
