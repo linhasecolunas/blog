@@ -1,5 +1,6 @@
-baseURL: '/'
-relativeURLs: true
+baseURL: '/basecnpj_blog/'
+relativeURLs: false
+canonifyURLs: true
 defaultContentLanguage: pt-br
 title: Blog | Base CNPJ
 
