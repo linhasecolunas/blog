@@ -12,9 +12,9 @@ sidebar:
 
 _Publicado em 05 de novembro de 2025._
 
-O ano de 2025 viu a abertura de impressionantes **3.752.811 novos estabelecimentos** no Brasil. Mas quem são eles, onde estão e em que setores atuam?
+O ano de 2025 viu a abertura de impressionantes **3.752.811 novos estabelecimentos** no Brasil até setembro. Mas quem são eles, onde estão e em que setores atuam?
 
-Analisamos os dados da **Base CNPJ** para criar um mapa completo do novo cenário empresarial do país.
+Analisamos os dados da **Base CNPJ de Outubro/2025** (referente ao período até 30 de setembro) para criar um mapa completo do novo cenário empresarial do país.
 
 ### Onde estão as Novas Empresas? O Top 5 dos Estados
 
@@ -90,3 +90,16 @@ Filtre por UF, município, regime tributário ou qualquer um dos 1.300 CNAEs.
     </a>
 </p>
 <br>
+
+---
+
+> **📊 Metodologia**
+>
+> Os dados apresentados neste relatório são baseados nos arquivos oficiais da Receita Federal, processados em outubro de 2025. Os números referem-se exclusivamente a estabelecimentos com data de abertura em 2025, independentemente de sua situação cadastral atual.
+>
+> **Sobre a nomenclatura "Base de Outubro":**
+> A Receita Federal disponibiliza os dados mensalmente com o nome do mês seguinte ao período de referência. Assim, a "Base de Outubro/2025" contém todas as empresas abertas **até 30 de setembro de 2025**. Este é o padrão oficial adotado pela Receita Federal para todas as suas bases públicas.
+>
+> - **Empresas Ativas:** CNPJs com situação cadastral "02 - ATIVA"
+> - **Regime Tributário:** Classificação entre MEI, Simples Nacional e Demais regimes
+> - **Tipo de Estabelecimento:** Matriz (primeiro estabelecimento da empresa) ou Filial (estabelecimentos adicionais)

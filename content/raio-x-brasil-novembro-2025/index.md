@@ -12,11 +12,11 @@ sidebar:
 
 _Publicado em 13 de novembro de 2025._
 
-O ano de 2025 continua quebrando recordes: até novembro, foram abertos impressionantes **4.073.882 novos estabelecimentos ativos** no Brasil — um crescimento de 8,6% em relação aos 3,7 milhões registrados em outubro.
+O ano de 2025 continua quebrando recordes: até outubro, foram abertos impressionantes **4.073.882 novos estabelecimentos ativos** no Brasil — um crescimento de 8,6% em relação aos 3,7 milhões registrados até setembro.
 
 Mas quem são eles e em que setores atuam?
 
-Analisamos os dados da **Base CNPJ** para criar um panorama completo do novo cenário empresarial do país.
+Analisamos os dados da **Base CNPJ de Novembro/2025** (referente ao período até 31 de outubro) para criar um panorama completo do novo cenário empresarial do país.
 
 ### Onde estão as Novas Empresas? O Top 5 dos Estados
 
@@ -96,11 +96,11 @@ Isso significa que **quase meio milhão de empresas abertas em 2025 já foram ba
 
 ---
 
-### Comparativo: Outubro vs. Novembro 2025
+### Comparativo: Setembro vs. Outubro 2025
 
-Em apenas dois meses, o cenário empresarial brasileiro cresceu significativamente:
+Em apenas um mês, o cenário empresarial brasileiro cresceu significativamente:
 
-| Métrica | Outubro/2025 | Novembro/2025 | Crescimento |
+| Métrica | Setembro/2025 | Outubro/2025 | Crescimento |
 |---------|---------------|---------------|-------------|
 | **Total de Empresas Ativas** | 3.752.811 | 4.073.882 | +8,6% |
 | **São Paulo** | 1.106.638 | 1.203.635 | +8,8% |
@@ -142,6 +142,9 @@ Filtre por UF, município, regime tributário ou qualquer um dos 1.300 CNAEs. Id
 > **📊 Metodologia**
 >
 > Os dados apresentados neste relatório são baseados nos arquivos oficiais da Receita Federal, processados em novembro de 2025. Os números referem-se exclusivamente a estabelecimentos com data de abertura em 2025, independentemente de sua situação cadastral atual.
+>
+> **Sobre a nomenclatura "Base de Novembro":**
+> A Receita Federal disponibiliza os dados mensalmente com o nome do mês seguinte ao período de referência. Assim, a "Base de Novembro/2025" contém todas as empresas abertas **até 31 de outubro de 2025**. Este é o padrão oficial adotado pela Receita Federal para todas as suas bases públicas.
 >
 > - **Empresas Ativas:** CNPJs com situação cadastral "02 - ATIVA"
 > - **Regime Tributário:** Classificação entre MEI, Simples Nacional e Demais regimes
