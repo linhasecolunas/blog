@@ -106,13 +106,11 @@ Gostou da facilidade? Esta é a ferramenta que milhares de equipes de vendas e m
 Se você ainda não tem seu acesso, garanta sua licença de 6 meses da **Base CNPJ** agora mesmo.
 
 <br>
-
 <p style="text-align: center;">
-    <a href="https://linhasecolunas.com.br/base-cnpj" class="btn btn-primary btn-lg" role="button">
+    <a href="https://basecnpj.linhasecolunas.com.br/" class="btn btn-primary btn-lg" role="button">
         ADQUIRIR ACESSO AGORA
     </a>
 </p>
-
 <br>
 
 ---
