@@ -1,6 +1,5 @@
-baseURL: 'https://linhasecolunas.com.br/blog/'
-canonifyURLs: true
-relativeURLs: false
+baseURL: '/blog/'
+relativeURLs: true
 defaultContentLanguage: pt-br
 title: Blog | Base CNPJ
 
@@ -52,8 +51,3 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: true
-  assets:
-    disableFingerprinting: true
-  hextra:
-    security:
-      enableSRI: false
